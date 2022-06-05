@@ -208,3 +208,4 @@ A `replace-color`'s `error` instance has the `code` and `field` properties. For 
 ## License
 
 [MIT](LICENSE)
+# replace-color-multiple
