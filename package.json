@@ -14,9 +14,9 @@
     "remove watermark",
     "watermark detection"
   ],
-  "homepage": "https://github.com/patradanai/replace-color-multi/#readme",
-  "bugs": "https://github.com/patradanai/replace-color-multi/issues",
-  "repository": "turakvlad/replace-color",
+  "homepage": "https://github.com/patradanai/replace-color-multiple/#readme",
+  "bugs": "https://github.com/patradanai/replace-color-multiple/issues",
+  "repository": "patradanai/replace-color-multiple",
   "license": "MIT",
   "author": "Patradanai",
   "files": [
